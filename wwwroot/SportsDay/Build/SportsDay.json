@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SportsDay.data.unityweb",
+"asmCodeUrl": "SportsDay.asm.code.unityweb",
+"asmMemoryUrl": "SportsDay.asm.memory.unityweb",
+"asmFrameworkUrl": "SportsDay.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
